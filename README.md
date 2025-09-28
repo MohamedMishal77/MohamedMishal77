@@ -3,14 +3,13 @@
 🎓 B.Tech CSE (IoT) | CGPA: 9.38  
 💻 Web Developer | Software Engineer  
 
-<img align="right" width="300" height="230" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 
 ---
-
 ## 🚀 About Me  
 
 I’m a passionate **Web Developer & Software Engineer** who loves building **scalable, user-friendly, and modern websites and applications**.  
 With a foundation in IoT and full-stack technologies, I aim to bridge the gap between hardware and software with innovative solutions.  
+
 
 ---
 
